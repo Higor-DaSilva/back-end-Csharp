@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\50457069856\\Desktop\\aula Back-end\\lacosEx01\\lacosEx01.csproj",
+      "projectUniqueName": "C:\\Users\\50457069856\\Desktop\\back-end-C-\\lacosEx01\\lacosEx01.csproj",
       "projectName": "lacosEx01",
-      "projectPath": "C:\\Users\\50457069856\\Desktop\\aula Back-end\\lacosEx01\\lacosEx01.csproj",
+      "projectPath": "C:\\Users\\50457069856\\Desktop\\back-end-C-\\lacosEx01\\lacosEx01.csproj",
       "packagesPath": "C:\\Users\\50457069856\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\50457069856\\Desktop\\aula Back-end\\lacosEx01\\obj\\",
+      "outputPath": "C:\\Users\\50457069856\\Desktop\\back-end-C-\\lacosEx01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\50457069856\\AppData\\Roaming\\NuGet\\NuGet.Config",

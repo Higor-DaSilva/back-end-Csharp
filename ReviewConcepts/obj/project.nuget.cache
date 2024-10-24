@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zf/4VNadl+FKOUUItijcFaEoHI0VPNLoSeQpBOjEkCWKnoGrK1Mr9fBMYk5SOXFuwbJfFaqZcrfcyJrYn0RXtQ==",
+  "dgSpecHash": "lq72TXiTmmY9NrosNR0I8XpXLEwP5m3XZC/vvNmLZ/gaRzVGL80Sp6eok0WNjuit6r/26xLHqLXshMMhjGJnVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\50457069856\\Desktop\\aula Back-end\\ReviewConcepts\\ReviewConcepts.csproj",
+  "projectFilePath": "C:\\Users\\50457069856\\Desktop\\back-end-Csharp\\ReviewConcepts\\ReviewConcepts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

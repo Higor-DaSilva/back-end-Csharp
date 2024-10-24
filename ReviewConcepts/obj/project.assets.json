@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\50457069856\\Desktop\\aula Back-end\\ReviewConcepts\\ReviewConcepts.csproj",
+      "projectUniqueName": "C:\\Users\\50457069856\\Desktop\\back-end-Csharp\\ReviewConcepts\\ReviewConcepts.csproj",
       "projectName": "ReviewConcepts",
-      "projectPath": "C:\\Users\\50457069856\\Desktop\\aula Back-end\\ReviewConcepts\\ReviewConcepts.csproj",
+      "projectPath": "C:\\Users\\50457069856\\Desktop\\back-end-Csharp\\ReviewConcepts\\ReviewConcepts.csproj",
       "packagesPath": "C:\\Users\\50457069856\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\50457069856\\Desktop\\aula Back-end\\ReviewConcepts\\obj\\",
+      "outputPath": "C:\\Users\\50457069856\\Desktop\\back-end-Csharp\\ReviewConcepts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\50457069856\\AppData\\Roaming\\NuGet\\NuGet.Config",

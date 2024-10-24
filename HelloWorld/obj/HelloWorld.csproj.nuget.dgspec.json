@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\50457069856\\Desktop\\aula Back-end\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\50457069856\\Desktop\\back-end-Csharp\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\50457069856\\Desktop\\aula Back-end\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\50457069856\\Desktop\\back-end-Csharp\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\50457069856\\Desktop\\aula Back-end\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\50457069856\\Desktop\\back-end-Csharp\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\50457069856\\Desktop\\aula Back-end\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\50457069856\\Desktop\\back-end-Csharp\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\50457069856\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\50457069856\\Desktop\\aula Back-end\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\50457069856\\Desktop\\back-end-Csharp\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\50457069856\\AppData\\Roaming\\NuGet\\NuGet.Config",
