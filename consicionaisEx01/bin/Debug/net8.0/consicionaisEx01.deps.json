@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "consicionaisEx01/1.0.0": {
+        "runtime": {
+          "consicionaisEx01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "consicionaisEx01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
