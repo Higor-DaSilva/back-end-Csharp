@@ -10,14 +10,18 @@ namespace ClasseObjeto.Classes
         public string raca;
         public string cor;
         public string name;
-        public int idade;
+        public int idade = 0;
+
+    public void FazerBarulho(string barulho = "Barulho Genérico")
+    {
+        Console.WriteLine($"Som do animal: {barulho}");
+        
     }
 
-    public class Gato
+    public void Envelhecer()
     {
-        public string name;
-        public string raca;
-        public int idade;
-        public string cor;
+        idade = idade + 1;
+    }
+
     }
 }
