@@ -10,6 +10,8 @@ calc.num2 = float.Parse(Console.ReadLine()!);
 System.Console.WriteLine();
 
 
+
+
 calc.Somar();
 calc.Subtrair();
 calc.Multiplicar();
